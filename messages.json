@@ -558,5 +558,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-11T17:53:15Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Hugeorb#9909",
+            "message": "im so sorry",
+            "player_count": 37,
+            "additional_info": {
+                "round_code": "1",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
