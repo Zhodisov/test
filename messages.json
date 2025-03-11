@@ -166,5 +166,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-11T09:40:33Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla2",
+            "author": "Enzosdb#0000",
+            "message": "ggg",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "16",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
