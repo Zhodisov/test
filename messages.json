@@ -222,5 +222,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-11T09:42:08Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla2",
+            "author": "Hiddavid#0000",
+            "message": "sry me no saman bad mice",
+            "player_count": 29,
+            "additional_info": {
+                "round_code": "17",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
