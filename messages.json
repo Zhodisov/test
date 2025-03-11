@@ -334,5 +334,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-11T09:46:50Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla2",
+            "author": "Vivi#9366",
+            "message": "ale",
+            "player_count": 32,
+            "additional_info": {
+                "round_code": "20",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
