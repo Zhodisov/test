@@ -2716,5 +2716,22 @@
             "player_count": 20,
             "mapcode": 1221661
         }
+    },
+    {
+        "timestamp": "2025-03-11T09:53:07Z",
+        "event_type": "winner",
+        "data": {
+            "winner": {
+                "username": "Unknown_43807",
+                "player_id": 43807,
+                "score": 5,
+                "order": 12,
+                "time": 36.48
+            },
+            "room": "*racing1",
+            "official": true,
+            "player_count": 20,
+            "mapcode": 1221661
+        }
     }
 ]
