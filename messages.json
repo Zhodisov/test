@@ -82,5 +82,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-11T09:38:38Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla2",
+            "author": "Heltking#9219",
+            "message": "tybg god",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "15",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
