@@ -194,5 +194,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-11T09:41:30Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla2",
+            "author": "Shopping#0000",
+            "message": "tyyy",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "16",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
