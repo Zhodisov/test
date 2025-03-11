@@ -1240,5 +1240,23 @@
             "player_count": 29,
             "mapcode": 228
         }
+    },
+    {
+        "timestamp": "2025-03-11T09:43:30Z",
+        "event_type": "winner",
+        "data": {
+            "winner": {
+                "username": "Unknown_46552",
+                "player_id": 46552,
+                "score": 16,
+                "order": 1,
+                "time": 21.05,
+                "wins": 1
+            },
+            "room": "*vanilla2",
+            "official": true,
+            "player_count": 30,
+            "mapcode": 85
+        }
     }
 ]
