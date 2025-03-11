@@ -572,5 +572,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-11T17:53:19Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Ooutrageou_s#3055",
+            "message": "up",
+            "player_count": 37,
+            "additional_info": {
+                "round_code": "1",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
