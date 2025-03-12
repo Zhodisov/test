@@ -628,5 +628,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:22:23Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Ratzyxx#5187",
+            "message": "rv pls",
+            "player_count": 33,
+            "additional_info": {
+                "round_code": "18",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
