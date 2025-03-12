@@ -1188,5 +1188,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:52:56Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Pipipitxu#4463",
+            "message": "You lost me there",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "43",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
