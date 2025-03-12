@@ -2154,5 +2154,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T20:05:06Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kazuki_dark#5514",
+            "message": "quadra",
+            "player_count": 37,
+            "additional_info": {
+                "round_code": "53",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
