@@ -1930,5 +1930,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:58:35Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Osiel_99#7491",
+            "message": "otra ves perro asi arriva",
+            "player_count": 45,
+            "additional_info": {
+                "round_code": "46",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
