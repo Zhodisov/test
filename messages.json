@@ -1608,5 +1608,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:56:01Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rexdaica123#4818",
+            "message": "win = 0cc",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "45",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
