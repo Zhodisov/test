@@ -880,5 +880,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:49:30Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kazuki_dark#5514",
+            "message": "but with cheese not fraise",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "40",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
