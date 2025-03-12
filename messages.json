@@ -1594,5 +1594,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:55:57Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Terraha#0000",
+            "message": "XD",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "45",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
