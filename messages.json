@@ -1538,5 +1538,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:55:33Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kazuki_dark#5514",
+            "message": "ur best is not enough",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "45",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
