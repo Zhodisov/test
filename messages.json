@@ -698,5 +698,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:25:03Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Pipipitxu#4463",
+            "message": "No it goes all the way down",
+            "player_count": 36,
+            "additional_info": {
+                "round_code": "21",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
