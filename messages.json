@@ -950,5 +950,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:49:55Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Pipipitxu#4463",
+            "message": "Unless you just live like 1 month",
+            "player_count": 42,
+            "additional_info": {
+                "round_code": "41",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
