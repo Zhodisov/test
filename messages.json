@@ -1580,5 +1580,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:55:47Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Pipipitxu#4463",
+            "message": "Yes. Chicken is naturally slimy but if its too much means bacteria started to developed",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "45",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
