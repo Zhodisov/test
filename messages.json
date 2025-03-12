@@ -2392,5 +2392,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T20:08:26Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Deadxfae#4747",
+            "message": "HAHHAHAHA",
+            "player_count": 43,
+            "additional_info": {
+                "round_code": "54",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
