@@ -614,5 +614,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T13:15:50Z",
+        "event_type": "message",
+        "data": {
+            "room": "*racing1",
+            "author": "Rgx#7150",
+            "message": ":DDD",
+            "player_count": 18,
+            "additional_info": {
+                "round_code": "83",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
