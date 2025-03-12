@@ -2028,5 +2028,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:59:15Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Katzai#4889",
+            "message": "ive heard is really harsh",
+            "player_count": 43,
+            "additional_info": {
+                "round_code": "47",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
