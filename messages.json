@@ -1146,5 +1146,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:52:13Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Xsbiee#5175",
+            "message": "you will still stay a sassy girl in my heart",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "43",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
