@@ -1272,5 +1272,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:53:44Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Katzai#4889",
+            "message": "i dont want it to go to waste",
+            "player_count": 43,
+            "additional_info": {
+                "round_code": "44",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
