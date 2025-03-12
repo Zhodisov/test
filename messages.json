@@ -2042,5 +2042,33 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:59:21Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Terraha#0000",
+            "message": "lol",
+            "player_count": 43,
+            "additional_info": {
+                "round_code": "47",
+                "username": "J_dcp#8769"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-03-12T20:03:17Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Terraha#0000",
+            "message": "gg all",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "51",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
