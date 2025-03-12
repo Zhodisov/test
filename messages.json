@@ -1048,5 +1048,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:50:34Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kazuki_dark#5514",
+            "message": "be a woman and milk ur own cows Bia#0353",
+            "player_count": 42,
+            "additional_info": {
+                "round_code": "41",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
