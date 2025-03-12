@@ -1944,5 +1944,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:58:39Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Terraha#0000",
+            "message": "Pipipitxu#4463 cook me something sorry jk lol",
+            "player_count": 45,
+            "additional_info": {
+                "round_code": "46",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
