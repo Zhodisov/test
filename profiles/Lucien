@@ -1,0 +1,173 @@
+{
+    "username": "Lucien#7335",
+    "id": 108820555,
+    "registration_date": "2024-04-19 08:03:37",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "Varnitas Eldimyr",
+    "soulmate": "protoninfa#0854",
+    "title_id": 311,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        383,
+        8,
+        9,
+        7,
+        387,
+        13,
+        532,
+        533,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        291,
+        35,
+        37,
+        38,
+        39,
+        40,
+        41,
+        36,
+        555,
+        287,
+        433,
+        435,
+        438,
+        311,
+        570,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        597,
+        213,
+        214,
+        600,
+        601,
+        357,
+        240,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        381,
+        127
+    ],
+    "title_stars": {},
+    "look": "160;189,0,129,0,17,151_432821+c0481e+41201f+c04f1e,0,0,0,0,0,0;78583a",
+    "level": 58,
+    "badges": {
+        "120": 1,
+        "145": 1,
+        "291": 1,
+        "42": 1,
+        "9": 1,
+        "33": 1,
+        "35": 1,
+        "131": 1,
+        "144": 1,
+        "269": 1,
+        "310": 1,
+        "398": 1,
+        "457": 1,
+        "464": 1,
+        "468": 1,
+        "469": 1,
+        "482": 1,
+        "487": 1,
+        "488": 1,
+        "495": 1,
+        "498": 1,
+        "278": 1
+    },
+    "adventure_points": 460,
+    "stats": {
+        "normal_mode_saves": 3452,
+        "hard_mode_saves": 2439,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 96,
+        "firsts": 4,
+        "cheese_collected": 5731,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 198,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 61,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 9,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 1,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 1045,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 98,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 705,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 40,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 659,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 281,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 3141,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 74,
+    "orbs": [
+        74,
+        28,
+        79
+    ],
+    "is_online": true,
+    "timestamp": "2025-03-12 12:49:52"
+}
