@@ -2084,5 +2084,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T20:03:41Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Mist3rrs#2663",
+            "message": "ty",
+            "player_count": 41,
+            "additional_info": {
+                "round_code": "51",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
