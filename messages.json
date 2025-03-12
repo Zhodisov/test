@@ -1734,5 +1734,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:57:16Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Terraha#0000",
+            "message": "i just like plain rotersi chicken",
+            "player_count": 45,
+            "additional_info": {
+                "round_code": "46",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
