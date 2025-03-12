@@ -1986,5 +1986,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-12T19:58:55Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Terraha#0000",
+            "message": "Frog#3120 i love ur outfit",
+            "player_count": 43,
+            "additional_info": {
+                "round_code": "47",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
