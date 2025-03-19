@@ -2546,5 +2546,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-19T13:43:16Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Lemon_um#2959",
+            "message": "cn?",
+            "player_count": 23,
+            "additional_info": {
+                "round_code": "94",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
