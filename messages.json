@@ -2490,5 +2490,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-19T13:40:24Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Deadxfae#4747",
+            "message": "they changed it twice",
+            "player_count": 25,
+            "additional_info": {
+                "round_code": "92",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
