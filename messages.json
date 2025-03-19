@@ -2532,5 +2532,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-19T13:43:06Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Nedaoxxx#0000",
+            "message": "wtf",
+            "player_count": 23,
+            "additional_info": {
+                "round_code": "94",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
