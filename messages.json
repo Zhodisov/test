@@ -2504,5 +2504,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-19T13:40:35Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Deadxfae#4747",
+            "message": "not everyday",
+            "player_count": 25,
+            "additional_info": {
+                "round_code": "92",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
