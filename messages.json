@@ -9812,5 +9812,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:37:21Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Qqueen#1355",
+            "message": "&lt;3",
+            "player_count": 35,
+            "additional_info": {
+                "round_code": "33",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
