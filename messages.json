@@ -6410,5 +6410,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:56:45Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Nedaoxxx#0000",
+            "message": "stop it",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "2",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
