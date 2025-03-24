@@ -4912,5 +4912,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:31:33Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "and alcohol markers that i have yet to use",
+            "player_count": 36,
+            "additional_info": {
+                "round_code": "78",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
