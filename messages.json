@@ -6956,5 +6956,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:11:32Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Hyzenthlay#4622",
+            "message": "i was so proud when my pc didnt explode first boot",
+            "player_count": 32,
+            "additional_info": {
+                "round_code": "15",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
