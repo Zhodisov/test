@@ -3638,5 +3638,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:22:44Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Beck#2335",
+            "message": "i did",
+            "player_count": 40,
+            "additional_info": {
+                "round_code": "70",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
