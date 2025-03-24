@@ -4940,5 +4940,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:31:43Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kolecik2007#0430",
+            "message": "i dont like pencils",
+            "player_count": 36,
+            "additional_info": {
+                "round_code": "78",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
