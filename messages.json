@@ -5318,5 +5318,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:35:08Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Ahopesz#2277",
+            "message": "sry",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "82",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
