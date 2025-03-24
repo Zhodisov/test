@@ -6396,5 +6396,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:56:33Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Snacker#0696",
+            "message": "if ur bad, ur bad. i need horseshoe for quest soo",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "2",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
