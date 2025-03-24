@@ -7992,5 +7992,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:23:03Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Izaahjacob#0000",
+            "message": "i would ToT",
+            "player_count": 32,
+            "additional_info": {
+                "round_code": "23",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
