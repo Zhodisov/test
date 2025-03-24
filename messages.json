@@ -4478,5 +4478,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:28:24Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "i have a graphic tablet",
+            "player_count": 37,
+            "additional_info": {
+                "round_code": "75",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
