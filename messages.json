@@ -3162,5 +3162,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:18:58Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Hyzenthlay#4622",
+            "message": "bro spends all the fraises gifting",
+            "player_count": 46,
+            "additional_info": {
+                "round_code": "68",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
