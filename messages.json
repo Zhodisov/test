@@ -9042,5 +9042,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:31:36Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Gamerboisgg#7064",
+            "message": "please revive vanilla1",
+            "player_count": 33,
+            "additional_info": {
+                "round_code": "30",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
