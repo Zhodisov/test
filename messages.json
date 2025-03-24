@@ -6270,5 +6270,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:54:19Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kolecik2007#0430",
+            "message": "it was very hard",
+            "player_count": 31,
+            "additional_info": {
+                "round_code": "0",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
