@@ -1,0 +1,194 @@
+{
+    "username": "Iscream#8745",
+    "id": 109179100,
+    "registration_date": "2024-10-11 21:25:54",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "S E K U T E R A N",
+    "soulmate": null,
+    "title_id": 129,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        532,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        555,
+        565,
+        566,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        598,
+        599,
+        600,
+        601,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        129,
+        213,
+        214,
+        240,
+        244,
+        287,
+        292,
+        324,
+        346,
+        347,
+        348,
+        349,
+        375,
+        390,
+        399,
+        483
+    ],
+    "title_stars": {
+        "119": 2,
+        "115": 2,
+        "118": 2,
+        "116": 2,
+        "117": 2
+    },
+    "look": "1;0,55_bc8f69+bd916b+be916a+0+0+917258+101010+9a7659+cd986c+bc8f69,114_bd9069+bc8f67+bf9169+dba666+bb7257+dedddb+ba7155+bd9068+bf9169,99,114,40_dfdedd+9f9b9c,69_dddcda+b0855f+b18660+98928b+bd906a+0,125,0,0,0,0;bd9067",
+    "level": 68,
+    "badges": {
+        "145": 1,
+        "42": 1,
+        "9": 1,
+        "29": 1,
+        "34": 1,
+        "142": 1,
+        "184": 1,
+        "341": 1,
+        "391": 1,
+        "482": 1,
+        "487": 1,
+        "488": 1,
+        "498": 1
+    },
+    "adventure_points": 295,
+    "stats": {
+        "normal_mode_saves": 10703,
+        "hard_mode_saves": 2234,
+        "divine_mode_saves": 863,
+        "shaman_cheese": 369,
+        "firsts": 193,
+        "cheese_collected": 12929,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 59,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 15,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 6,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 32,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 0,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 0,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 8,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 15,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 4,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 50,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 78,
+    "orbs": [
+        78,
+        79,
+        16,
+        81,
+        56
+    ],
+    "is_online": true,
+    "timestamp": "2025-03-24 13:33:17"
+}
