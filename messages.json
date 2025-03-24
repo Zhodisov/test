@@ -7362,5 +7362,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:15:56Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Possibility#1043",
+            "message": "trampoline",
+            "player_count": 33,
+            "additional_info": {
+                "round_code": "18",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
