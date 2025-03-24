@@ -3330,5 +3330,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:20:38Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Beck#2335",
+            "message": "nice memes raven btw",
+            "player_count": 40,
+            "additional_info": {
+                "round_code": "69",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
