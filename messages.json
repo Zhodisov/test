@@ -6760,5 +6760,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:09:48Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Hyzenthlay#4622",
+            "message": "erm",
+            "player_count": 29,
+            "additional_info": {
+                "round_code": "14",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
