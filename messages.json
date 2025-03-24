@@ -2882,5 +2882,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:15:52Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Possibility#1043",
+            "message": "I want the tail item on sale but I ran out of fraises lmao hopefully I can get some more before the sales reset",
+            "player_count": 45,
+            "additional_info": {
+                "round_code": "66",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
