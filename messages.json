@@ -9686,5 +9686,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:36:23Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Hyzenthlay#4622",
+            "message": "LMAO its the umm sakura branch ones",
+            "player_count": 34,
+            "additional_info": {
+                "round_code": "32",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
