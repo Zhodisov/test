@@ -2910,5 +2910,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:16:21Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Possibility#1043",
+            "message": "probably like the day before sales end XD",
+            "player_count": 44,
+            "additional_info": {
+                "round_code": "67",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
