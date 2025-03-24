@@ -6466,5 +6466,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:58:25Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "i rlly hope its not a duo sham map",
+            "player_count": 27,
+            "additional_info": {
+                "round_code": "3",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
