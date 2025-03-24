@@ -5374,5 +5374,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:35:50Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Snacker#0696",
+            "message": "Kittyz#3603 do u have revive",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "82",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
