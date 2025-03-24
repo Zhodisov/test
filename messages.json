@@ -5122,5 +5122,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:33:12Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Iscream#8745",
+            "message": "ohh",
+            "player_count": 35,
+            "additional_info": {
+                "round_code": "80",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
