@@ -9518,5 +9518,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:35:04Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Mochaccin0#2706",
+            "message": "WHAO 0 0",
+            "player_count": 34,
+            "additional_info": {
+                "round_code": "31",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
