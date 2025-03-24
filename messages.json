@@ -7474,5 +7474,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:16:43Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Possibility#1043",
+            "message": "thicc trampoline",
+            "player_count": 32,
+            "additional_info": {
+                "round_code": "19",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
