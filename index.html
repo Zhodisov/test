@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+<style>
+body{margin:0;padding:0;background-color:#3B2817;font-family:Tahoma,Arial,sans-serif;color:#FFFFFF;}
+._a{width:700px;max-width:90%;margin:20px auto;position:relative;background:url("https://i.imgur.com/AtDUEBk.png") no-repeat center center;background-size:cover;border:1px solid #5D3B1A;box-shadow:0 0 10px rgba(0,0,0,0.3);padding:10px;}
+._b{text-align:center;font-weight:bold;margin:0;padding:8px 0;font-size:1.2em;background-color:rgba(0,0,0,0.3);border:1px solid #5D3B1A;}
+#_c{margin:10px;}
+._d{background-color:rgba(255,255,255,0.1);border:none;border-radius:8px;padding:6px 8px;margin-bottom:6px;}
+._e{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:2px;}
+._g{font-weight:bold;color:#FFD966;margin-right:8px;}
+._h{font-style:italic;color:#95D9F7;font-size:0.9em;}
+._f{font-size:0.75em;color:#CCC;}
+._i{margin-top:2px;padding-left:2px;line-height:1.4em;color:#FFFFFF;}
+</style>
+</head>
+<body>
+<div class="_a">
+<div id="_c">A</div>
+</div>
+<script>
+function _x(){
+fetch("https://raw.githubusercontent.com/Zhodisov/test/refs/heads/main/messages.json")
+.then(_a=>{if(!_a.ok)throw new Error("E");return _a.json();})
+.then(_b=>{
+const _c=document.getElementById("_c");_c.innerHTML="";
+_b.forEach(_d=>{
+const _e=document.createElement("div");_e.className="_d";
+const _f=document.createElement("div");_f.className="_f";
+const _m=new Date(_d.timestamp);
+_f.textContent=_m.toLocaleString();
+const _g=document.createElement("div");_g.className="_e";
+const _h=document.createElement("span");_h.className="_g";
+const _i=document.createElement("span");_i.className="_h";
+const _j=_d.data||{};
+_h.textContent=_j.author||"I";
+_i.textContent=_j.room?("["+_j.room+"]"):"";
+const _k=document.createElement("div");
+_k.appendChild(_h);_k.appendChild(_i);
+const _l=document.createElement("div");
+_l.appendChild(_f);
+_g.appendChild(_k);_g.appendChild(_l);
+const _n=document.createElement("div");_n.className="_i";
+_n.textContent=_j.message||"";
+_e.appendChild(_g);_e.appendChild(_n);
+_c.appendChild(_e);
+});
+})
+.catch(_a=>{
+document.getElementById("_c").textContent="E:"+_a.message;
+console.error(_a);
+});
+}
+_x();
+setInterval(_x,60000);
+</script>
+</body>
+</html>
