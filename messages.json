@@ -8286,5 +8286,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:25:08Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Izaahjacob#0000",
+            "message": "oop",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "24",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
