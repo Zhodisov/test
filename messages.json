@@ -4968,5 +4968,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:32:15Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Jajo_093#2723",
+            "message": "Hello",
+            "player_count": 36,
+            "additional_info": {
+                "round_code": "79",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
