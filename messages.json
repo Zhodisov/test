@@ -3960,5 +3960,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:25:09Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Raven#6847",
+            "message": "NOOO I GOT FUCKIN SKILLS ON",
+            "player_count": 34,
+            "additional_info": {
+                "round_code": "73",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
