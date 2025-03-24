@@ -13,5 +13,15 @@
 
 </div>
 
+---
 
+<p align="center">
+  <a href="https://zhodisov.github.io/test" target="_blank">
+    <img src="https://github.com/user-attachments/assets/49bc2c53-a12d-44c3-ab30-d5eb3cb158bc" alt="" width="800"/>
+  </a>
+</p>
+
+🔗 [Access logs](https://zhodisov.github.io/test/public/index.html)
+
+---
 
