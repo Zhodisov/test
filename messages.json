@@ -3316,5 +3316,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:20:32Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Finicalseven#8191",
+            "message": "SíPrende otro phillie, que voy directo al espacioEn la parte de atrás de la Bentley, cabrón, hay mucho espacioA veces me siento Don Omar, vivo en un palacioYo soy un rey, hijueputa, estoy reacio",
+            "player_count": 40,
+            "additional_info": {
+                "round_code": "69",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
