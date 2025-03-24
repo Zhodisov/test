@@ -3064,5 +3064,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:17:38Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Sneazer#0000",
+            "message": "cruel !",
+            "player_count": 44,
+            "additional_info": {
+                "round_code": "67",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
