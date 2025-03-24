@@ -2784,5 +2784,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:15:04Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Finicalseven#8191",
+            "message": "callenlo de vdd",
+            "player_count": 45,
+            "additional_info": {
+                "round_code": "66",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
