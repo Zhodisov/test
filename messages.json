@@ -6732,5 +6732,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:09:37Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Possibility#1043",
+            "message": "httt",
+            "player_count": 29,
+            "additional_info": {
+                "round_code": "14",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
