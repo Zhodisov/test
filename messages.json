@@ -7250,5 +7250,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:13:44Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Zozi23#4435",
+            "message": "gjjkj",
+            "player_count": 35,
+            "additional_info": {
+                "round_code": "16",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
