@@ -3974,5 +3974,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:25:15Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Raven#6847",
+            "message": "KMS",
+            "player_count": 34,
+            "additional_info": {
+                "round_code": "73",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
