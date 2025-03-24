@@ -6172,5 +6172,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:49:33Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kolecik2007#0430",
+            "message": "wat",
+            "player_count": 29,
+            "additional_info": {
+                "round_code": "96",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
