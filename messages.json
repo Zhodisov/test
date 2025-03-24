@@ -5752,5 +5752,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:40:57Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Jajo_093#2723",
+            "message": "Crazy",
+            "player_count": 31,
+            "additional_info": {
+                "round_code": "87",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
