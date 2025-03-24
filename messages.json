@@ -6382,5 +6382,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:56:27Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "this silly rat game has toxicity to match it",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "2",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
