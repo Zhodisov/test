@@ -8734,5 +8734,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:29:02Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "theyre so SOUR",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "28",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
