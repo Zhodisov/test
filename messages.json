@@ -2826,5 +2826,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:15:30Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "Pro shaman",
+            "player_count": 45,
+            "additional_info": {
+                "round_code": "66",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
