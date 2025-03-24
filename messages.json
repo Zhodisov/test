@@ -4338,5 +4338,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:27:32Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Raven#6847",
+            "message": "PLAYING IN TANLET ROCKS THO",
+            "player_count": 37,
+            "additional_info": {
+                "round_code": "74",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
