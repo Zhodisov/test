@@ -5234,5 +5234,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:34:32Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "10 years on this game and still not level 100",
+            "player_count": 29,
+            "additional_info": {
+                "round_code": "81",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
