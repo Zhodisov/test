@@ -9196,5 +9196,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:32:42Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "i love tangerines",
+            "player_count": 34,
+            "additional_info": {
+                "round_code": "31",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
