@@ -5304,5 +5304,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:35:02Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Possibility#1043",
+            "message": "i just realized i don't even have the gravitational anomly skill",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "82",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
