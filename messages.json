@@ -8622,5 +8622,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:28:11Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Olleoliv#0000",
+            "message": "grilled strawberry",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "28",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
