@@ -3022,5 +3022,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:17:14Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "currently i want like max 3 furs rn for an outfit",
+            "player_count": 44,
+            "additional_info": {
+                "round_code": "67",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
