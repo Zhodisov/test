@@ -6256,5 +6256,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:52:38Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Envidiame#0000",
+            "message": "t",
+            "player_count": 29,
+            "additional_info": {
+                "round_code": "99",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
