@@ -5780,5 +5780,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:41:08Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Kolecik2007#0430",
+            "message": "i LOVE afk shams",
+            "player_count": 30,
+            "additional_info": {
+                "round_code": "88",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
