@@ -9406,5 +9406,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T14:34:12Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Izaahjacob#0000",
+            "message": "thank you for da leek",
+            "player_count": 34,
+            "additional_info": {
+                "round_code": "31",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
