@@ -3498,5 +3498,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-03-24T13:21:53Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Rooszaa#0000",
+            "message": "So i had this really corny and goofy bio that was something along the lines of professional racist and more, AND like they said it was discriminatory",
+            "player_count": 40,
+            "additional_info": {
+                "round_code": "70",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
