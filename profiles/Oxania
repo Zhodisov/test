@@ -1,0 +1,156 @@
+{
+    "username": "Oxania#0000",
+    "id": 60544973,
+    "registration_date": "2014-07-19 19:48:49",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "Uniwersytet Magii",
+    "soulmate": null,
+    "title_id": 356,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        287,
+        35,
+        37,
+        38,
+        39,
+        40,
+        41,
+        36,
+        300,
+        301,
+        303,
+        304,
+        320,
+        321,
+        322,
+        323,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        343,
+        344,
+        345,
+        346,
+        349,
+        356,
+        357,
+        360,
+        115,
+        116,
+        117,
+        118,
+        253
+    ],
+    "title_stars": {},
+    "look": "1;81,0,0,0,0,0,0,0,0,0,0,0;dfd8ce",
+    "level": 55,
+    "badges": {
+        "120": 1,
+        "9": 1,
+        "28": 1,
+        "29": 1,
+        "30": 1,
+        "46": 1,
+        "498": 1
+    },
+    "adventure_points": 100,
+    "stats": {
+        "normal_mode_saves": 6777,
+        "hard_mode_saves": 17,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 191,
+        "firsts": 108,
+        "cheese_collected": 6445,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 42,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 13,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 1,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 1659,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 99,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 1082,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 558,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 0,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 0,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 81,
+    "orbs": [
+        81
+    ],
+    "is_online": true,
+    "timestamp": "2025-04-04 00:24:01"
+}
