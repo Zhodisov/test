@@ -10190,5 +10190,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-04-04T00:23:19Z",
+        "event_type": "message",
+        "data": {
+            "room": "fr-vanilla1",
+            "author": "Gili#1221",
+            "message": "koi",
+            "player_count": 22,
+            "additional_info": {
+                "round_code": "91",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
