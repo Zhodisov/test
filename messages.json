@@ -10204,5 +10204,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-04-04T00:28:44Z",
+        "event_type": "message",
+        "data": {
+            "room": "*vanilla1",
+            "author": "Berfuece#8039",
+            "message": "hi",
+            "player_count": 25,
+            "additional_info": {
+                "round_code": "35",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
