@@ -10176,5 +10176,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-04-04T00:23:13Z",
+        "event_type": "message",
+        "data": {
+            "room": "fr-vanilla1",
+            "author": "Alaa#7059",
+            "message": "CDM lvl Angoisss#6876",
+            "player_count": 22,
+            "additional_info": {
+                "round_code": "91",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
