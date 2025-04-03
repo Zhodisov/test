@@ -1,0 +1,207 @@
+{
+    "username": "Xein#7675",
+    "id": 108703497,
+    "registration_date": "2024-02-13 19:42:31",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "The Sunflower Field",
+    "soulmate": "suga#8053",
+    "title_id": 582,
+    "unlocked_titles": [
+        0,
+        385,
+        1,
+        2,
+        4,
+        5,
+        6,
+        390,
+        391,
+        9,
+        10,
+        8,
+        11,
+        7,
+        14,
+        15,
+        16,
+        399,
+        3,
+        403,
+        29,
+        13,
+        538,
+        27,
+        28,
+        26,
+        30,
+        31,
+        32,
+        33,
+        417,
+        34,
+        35,
+        37,
+        38,
+        39,
+        40,
+        41,
+        36,
+        437,
+        569,
+        570,
+        319,
+        324,
+        325,
+        582,
+        583,
+        72,
+        73,
+        74,
+        75,
+        76,
+        589,
+        78,
+        77,
+        80,
+        588,
+        594,
+        79,
+        213,
+        214,
+        215,
+        483,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+    ],
+    "title_stars": {
+        "118": 2,
+        "116": 2,
+        "121": 2,
+        "120": 2,
+        "117": 2,
+        "122": 2,
+        "119": 2,
+        "115": 2,
+        "123": 2
+    },
+    "look": "217;195_402369+371767+a5a5a5+0+3c00a9+461767+0,9_4c1496+8c1aff+0+540505,48_4b2369+ffffff+fbf4dd+c571ff,2,81_6b6b6b+544394+919191+71459c+151227+432462+4900ff+9490ae+7169ff+5424de,72_335d3a,25_2b2239+3d1767+6700ff+7177ff+3e1ea1+8a7ac3+ffffff+ffffff,13,4_cecece+4c07bc+0+3c009d,0,0,0;78583a",
+    "level": 62,
+    "badges": {
+        "288": 1,
+        "145": 1,
+        "291": 1,
+        "42": 1,
+        "9": 1,
+        "130": 1,
+        "142": 1,
+        "182": 1,
+        "264": 1,
+        "269": 1,
+        "449": 1,
+        "454": 1,
+        "457": 1,
+        "495": 1,
+        "498": 1,
+        "263": 1,
+        "273": 1,
+        "298": 1,
+        "311": 1,
+        "312": 1,
+        "336": 1,
+        "339": 1,
+        "358": 1,
+        "360": 1,
+        "419": 1,
+        "421": 1,
+        "439": 1
+    },
+    "adventure_points": 285,
+    "stats": {
+        "normal_mode_saves": 6172,
+        "hard_mode_saves": 4153,
+        "divine_mode_saves": 1016,
+        "shaman_cheese": 317,
+        "firsts": 125,
+        "cheese_collected": 8182,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 3642,
+        "no_skill_hard_saves": 2633,
+        "no_skill_divine_saves": 1009,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 50,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 12,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 189,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 9,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 27,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 36,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 1826,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 703,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 8410,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 57,
+    "orbs": [
+        41,
+        16,
+        48,
+        81,
+        21,
+        24,
+        57,
+        28
+    ],
+    "is_online": true,
+    "timestamp": "2025-04-04 00:23:54"
+}
