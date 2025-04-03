@@ -1,0 +1,189 @@
+{
+    "username": "Krisstallik90#4214",
+    "id": 76774665,
+    "registration_date": "2015-09-17 21:10:48",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "kotyata i slonyata",
+    "soulmate": "maxdvachevsky#1797",
+    "title_id": 23,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        555,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        596,
+        84,
+        597,
+        599,
+        85,
+        601,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        212,
+        213,
+        287,
+        300,
+        343,
+        345,
+        346,
+        351,
+        372,
+        373,
+        375
+    ],
+    "title_stars": {
+        "118": 2,
+        "116": 2,
+        "120": 2,
+        "117": 2,
+        "119": 2,
+        "115": 2
+    },
+    "look": "1;0,9_0+39b811+0+0,114_61aa10+120d0a+120d0a+da9471+995f42+120d0a+120d0a+2f8e15+e0f0b,0,53_171514+282523+2b2725+26211e+2d2826+343130+211e1d+171514,151_2a231f+1f1815+373331+231f1d,77_39850a+1e1c1a+2e7308+1d1917+201915+2f3a0b,12,0,0,0,0;272220",
+    "level": 76,
+    "badges": {
+        "124": 3,
+        "42": 1,
+        "55": 1,
+        "6": 1,
+        "488": 1,
+        "498": 1,
+        "138": 1,
+        "242": 1,
+        "355": 1,
+        "447": 1
+    },
+    "adventure_points": 360,
+    "stats": {
+        "normal_mode_saves": 13492,
+        "hard_mode_saves": 1247,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 876,
+        "firsts": 72,
+        "cheese_collected": 23166,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 1655,
+        "no_skill_hard_saves": 21,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 5270,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 2029,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 155,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 116,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 4,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 18,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 31,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 283,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 123,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 951,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 81,
+    "orbs": [
+        81,
+        75,
+        3,
+        79
+    ],
+    "is_online": true,
+    "timestamp": "2025-04-04 00:24:05"
+}
