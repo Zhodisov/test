@@ -1,0 +1,199 @@
+{
+    "username": "Rogalik#9262",
+    "id": 106864932,
+    "registration_date": "2022-02-01 19:29:12",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "alfea college",
+    "soulmate": null,
+    "title_id": 417,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        536,
+        537,
+        26,
+        27,
+        28,
+        29,
+        541,
+        540,
+        31,
+        32,
+        33,
+        30,
+        547,
+        34,
+        38,
+        39,
+        40,
+        41,
+        35,
+        37,
+        36,
+        551,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        213,
+        214,
+        215,
+        216,
+        243,
+        245,
+        287,
+        318,
+        324,
+        325,
+        326,
+        335,
+        345,
+        354,
+        388,
+        407,
+        417,
+        437,
+        483,
+        511
+    ],
+    "title_stars": {},
+    "look": "229;0,0,0,0,0,0,62,12,0,0,0,0;78583a",
+    "level": 76,
+    "badges": {
+        "124": 5,
+        "288": 2,
+        "145": 1,
+        "147": 1,
+        "291": 1,
+        "42": 1,
+        "6": 1,
+        "17": 1,
+        "46": 1,
+        "181": 1,
+        "193": 1,
+        "202": 1,
+        "269": 1,
+        "345": 1,
+        "356": 1,
+        "362": 1,
+        "364": 1,
+        "373": 1,
+        "391": 1,
+        "498": 1,
+        "20": 1,
+        "355": 1
+    },
+    "adventure_points": 330,
+    "stats": {
+        "normal_mode_saves": 10956,
+        "hard_mode_saves": 7610,
+        "divine_mode_saves": 2051,
+        "shaman_cheese": 838,
+        "firsts": 228,
+        "cheese_collected": 17588,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 8367,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 4555,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 704,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 21,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 16,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 0,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 0,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 2,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 3749,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 2169,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 18452,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 81,
+    "orbs": [
+        65,
+        41,
+        16,
+        17,
+        48,
+        81,
+        58,
+        63
+    ],
+    "is_online": true,
+    "timestamp": "2025-04-04 00:23:40"
+}
