@@ -1,0 +1,153 @@
+{
+    "username": "Lisbekate#0000",
+    "id": 48825115,
+    "registration_date": "2013-11-02 19:45:03",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "I'm R E A L",
+    "soulmate": null,
+    "title_id": 558,
+    "unlocked_titles": [
+        0,
+        129,
+        1,
+        2,
+        4,
+        5,
+        6,
+        3,
+        8,
+        9,
+        10,
+        7,
+        13,
+        531,
+        537,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        418,
+        34,
+        287,
+        35,
+        38,
+        39,
+        40,
+        41,
+        37,
+        555,
+        36,
+        557,
+        558,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        213,
+        214,
+        601,
+        242,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        253,
+        254
+    ],
+    "title_stars": {},
+    "look": "1;0,46,18,25,4,129,0,68,0,0,0,0;bd9067",
+    "level": 55,
+    "badges": {
+        "145": 1,
+        "42": 1,
+        "55": 1,
+        "230": 1,
+        "261": 1,
+        "488": 1,
+        "498": 1
+    },
+    "adventure_points": 175,
+    "stats": {
+        "normal_mode_saves": 3451,
+        "hard_mode_saves": 2055,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 194,
+        "firsts": 65,
+        "cheese_collected": 6604,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 239,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 40,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 2,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 1,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 0,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 0,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 23,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 2,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 15,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 34,
+    "orbs": [
+        81,
+        34,
+        79
+    ],
+    "is_online": true,
+    "timestamp": "2025-04-04 00:23:35"
+}
