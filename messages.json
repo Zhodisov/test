@@ -10344,5 +10344,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-05-22T19:29:09Z",
+        "event_type": "message",
+        "data": {
+            "room": "*racing 111",
+            "author": "Mineblacki#0000",
+            "message": "que consome",
+            "player_count": 21,
+            "additional_info": {
+                "round_code": "32",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
