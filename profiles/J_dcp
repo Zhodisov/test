@@ -9,23 +9,23 @@
     "title_id": 465,
     "unlocked_titles": [
         256,
-        257,
+        1,
         2,
+        3,
         259,
-        260,
-        4,
-        6,
-        5,
-        264,
         261,
-        263,
-        8,
         262,
         7,
-        1,
+        6,
+        8,
+        263,
+        264,
+        260,
+        5,
+        257,
         0,
-        3,
         258,
+        4,
         26,
         27,
         28,
@@ -74,7 +74,7 @@
         "divine_mode_saves": 0,
         "shaman_cheese": 0,
         "firsts": 0,
-        "cheese_collected": 5216,
+        "cheese_collected": 5219,
         "bootcamps": 31,
         "no_skill_normal_saves": 0,
         "no_skill_hard_saves": 0,
@@ -82,7 +82,7 @@
         "mode_stats": {
             "Racing": {
                 "played_games": {
-                    "progress": 16,
+                    "progress": 17,
                     "progress_limit": 1500
                 },
                 "completed_games": {
@@ -135,5 +135,5 @@
     "equipped_orb": 0,
     "orbs": [],
     "is_online": true,
-    "timestamp": "2025-03-12 19:48:34"
+    "timestamp": "2025-05-22 19:35:41"
 }
