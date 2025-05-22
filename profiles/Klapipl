@@ -1,0 +1,119 @@
+{
+    "username": "Klapipl#5792",
+    "id": 0,
+    "registration_date": "2024-09-08 15:50:48",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "Taktyczna Baza Antarktyczna",
+    "soulmate": null,
+    "title_id": 34,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        72,
+        73,
+        74,
+        115,
+        116
+    ],
+    "title_stars": {},
+    "look": "1;128,0,51,10,0,0,0,17,0,0,0,0;78583a",
+    "level": 45,
+    "badges": {
+        "42": 1
+    },
+    "adventure_points": 0,
+    "stats": {
+        "normal_mode_saves": 2001,
+        "hard_mode_saves": 0,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 42,
+        "firsts": 10,
+        "cheese_collected": 2779,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 156,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 64,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 3,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 1,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 166,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 4,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 15,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 22,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 1,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 0,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 0,
+    "orbs": [],
+    "is_online": true,
+    "timestamp": "2025-05-22 19:28:17"
+}
