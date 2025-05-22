@@ -21,7 +21,6 @@
   </a>
 </p>
 
-🔗 [Access logs]((https://zhodisov.github.io/test/))
-
+🔗 <a href="https://zhodisov.github.io/test/" target="_blank" rel="noopener noreferrer"><button style="padding: 10px 20px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">Access Logs</button></a>
 ---
 
