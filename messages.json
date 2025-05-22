@@ -10218,5 +10218,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-05-22T19:27:21Z",
+        "event_type": "message",
+        "data": {
+            "room": "*survivor1",
+            "author": "Martinehd#0000",
+            "message": "JPPPPPPPP",
+            "player_count": 23,
+            "additional_info": {
+                "round_code": "81",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
