@@ -1,0 +1,116 @@
+{
+    "username": "Lluxas#7462",
+    "id": 108438930,
+    "registration_date": "2023-11-16 14:08:09",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "I'm R E A L",
+    "soulmate": null,
+    "title_id": 30,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        72,
+        115,
+        116,
+        117
+    ],
+    "title_stars": {},
+    "look": "1;0,32,18,0,5,0,0,0,0,0,0,0;78583a",
+    "level": 42,
+    "badges": {
+        "120": 2,
+        "42": 1
+    },
+    "adventure_points": 0,
+    "stats": {
+        "normal_mode_saves": 820,
+        "hard_mode_saves": 0,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 20,
+        "firsts": 4,
+        "cheese_collected": 2247,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 1323,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 447,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 94,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 8,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 2454,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 252,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 582,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 434,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 2,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 0,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 0,
+    "orbs": [],
+    "is_online": true,
+    "timestamp": "2025-05-22 19:27:51"
+}
