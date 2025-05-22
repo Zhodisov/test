@@ -21,7 +21,7 @@
   </a>
 </p>
 
-🔗 [Access logs](https://zhodisov.github.io/test/public/index.html)
+🔗 [Access logs]((https://zhodisov.github.io/test/))
 
 ---
 
