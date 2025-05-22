@@ -1,0 +1,196 @@
+{
+    "username": "Archiereturn#0000",
+    "id": 80368371,
+    "registration_date": "2015-12-24 13:43:31",
+    "privilege_level": 0,
+    "gender": "Male",
+    "tribe": "Zucci",
+    "soulmate": "brtjoy#1664",
+    "title_id": 49,
+    "unlocked_titles": [
+        0,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        26,
+        539,
+        27,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        28,
+        38,
+        551,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        115,
+        116,
+        117,
+        37,
+        39,
+        231,
+        232,
+        253,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        293,
+        321,
+        351,
+        367,
+        369,
+        377,
+        386,
+        487
+    ],
+    "title_stars": {},
+    "look": "1;0,0,0,0,0,0,0,0,0,0,0,0;78583a",
+    "level": 60,
+    "badges": {
+        "124": 27,
+        "125": 1,
+        "127": 1,
+        "42": 1,
+        "399": 1,
+        "438": 1,
+        "327": 1,
+        "363": 1
+    },
+    "adventure_points": 55,
+    "stats": {
+        "normal_mode_saves": 1,
+        "hard_mode_saves": 0,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 0,
+        "firsts": 8512,
+        "cheese_collected": 10856,
+        "bootcamps": 168,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 41067,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 10801,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 10448,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 8509,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 0,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 0,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 0,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 0,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 0,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 0,
+    "orbs": [
+        65,
+        4
+    ],
+    "is_online": true,
+    "timestamp": "2025-05-22 19:28:40"
+}
