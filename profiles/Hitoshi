@@ -1,0 +1,174 @@
+{
+    "username": "Hitoshi#9960",
+    "id": 85432258,
+    "registration_date": "2016-06-15 13:53:46",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": "Sam n Colby fc",
+    "soulmate": "soulz#6891",
+    "title_id": 279,
+    "unlocked_titles": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        557,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        213,
+        253,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        314,
+        351,
+        356
+    ],
+    "title_stars": {},
+    "look": "1;0,0,9,0,0,0,0,0,0,0,0,0;272220",
+    "level": 59,
+    "badges": {
+        "120": 3,
+        "124": 2,
+        "42": 1,
+        "9": 1,
+        "269": 1,
+        "449": 1
+    },
+    "adventure_points": 115,
+    "stats": {
+        "normal_mode_saves": 1891,
+        "hard_mode_saves": 876,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 86,
+        "firsts": 241,
+        "cheese_collected": 7680,
+        "bootcamps": 626,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 3042,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 1953,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 1614,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 693,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 3898,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 289,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 1188,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 1381,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 103,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 64,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 444,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 16,
+    "orbs": [
+        16,
+        83,
+        80,
+        23
+    ],
+    "is_online": true,
+    "timestamp": "2025-05-22 19:28:07"
+}
