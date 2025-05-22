@@ -10330,5 +10330,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-05-22T19:29:05Z",
+        "event_type": "message",
+        "data": {
+            "room": "*racing 111",
+            "author": "Migueb#2505",
+            "message": "slc",
+            "player_count": 21,
+            "additional_info": {
+                "round_code": "32",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
