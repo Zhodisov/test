@@ -1,0 +1,89 @@
+{
+    "username": "Thegreeatwr#7095",
+    "id": 0,
+    "registration_date": "2025-06-29 07:32:11",
+    "privilege_level": 0,
+    "gender": "Female",
+    "tribe": null,
+    "soulmate": null,
+    "title_id": 0,
+    "unlocked_titles": [
+        0,
+        5
+    ],
+    "title_stars": {},
+    "look": "1;0,0,0,0,0,0,0,0,0,0,0,0;78583a",
+    "level": 3,
+    "badges": {
+        "42": 1
+    },
+    "adventure_points": 0,
+    "stats": {
+        "normal_mode_saves": 0,
+        "hard_mode_saves": 0,
+        "divine_mode_saves": 0,
+        "shaman_cheese": 0,
+        "firsts": 0,
+        "cheese_collected": 5,
+        "bootcamps": 0,
+        "no_skill_normal_saves": 0,
+        "no_skill_hard_saves": 0,
+        "no_skill_divine_saves": 0,
+        "mode_stats": {
+            "Racing": {
+                "played_games": {
+                    "progress": 0,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "podiums": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "firsts": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Survivor": {
+                "played_games": {
+                    "progress": 0,
+                    "progress_limit": 1000
+                },
+                "times_shaman": {
+                    "progress": 0,
+                    "progress_limit": 800
+                },
+                "mice_killed": {
+                    "progress": 0,
+                    "progress_limit": 20000
+                },
+                "survived_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                }
+            },
+            "Défilante": {
+                "played_games": {
+                    "progress": 0,
+                    "progress_limit": 1500
+                },
+                "completed_games": {
+                    "progress": 0,
+                    "progress_limit": 10000
+                },
+                "points_collected": {
+                    "progress": 0,
+                    "progress_limit": 100000
+                }
+            }
+        }
+    },
+    "equipped_orb": 0,
+    "orbs": [],
+    "is_online": true,
+    "timestamp": "2025-06-29 11:41:55"
+}
