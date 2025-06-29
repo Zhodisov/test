@@ -10400,5 +10400,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-06-29T11:30:58Z",
+        "event_type": "message",
+        "data": {
+            "room": "*1",
+            "author": "Katarina_murr#2076",
+            "message": "не рискуй, умоляю!",
+            "player_count": 19,
+            "additional_info": {
+                "round_code": "29",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
