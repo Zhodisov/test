@@ -10386,5 +10386,19 @@
                 "username": "J_dcp#8769"
             }
         }
+    },
+    {
+        "timestamp": "2025-06-29T11:30:51Z",
+        "event_type": "message",
+        "data": {
+            "room": "*1",
+            "author": "Meduza#3272",
+            "message": "net",
+            "player_count": 19,
+            "additional_info": {
+                "round_code": "29",
+                "username": "J_dcp#8769"
+            }
+        }
     }
 ]
